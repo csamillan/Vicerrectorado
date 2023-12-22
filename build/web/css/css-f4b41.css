@@ -1,0 +1,91 @@
+
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/bootstrap.css
+================================================================================*/
+
+
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/template.css
+================================================================================*/
+.wrap{width:auto;clear:both}body{background-color:#fff;color:#333;font-family:sans-serif;font-size:14px;line-height:20px;margin:0;}a{color:#07b;text-decoration:none}a:hover{color:#00466f;text-decoration:underline}img{max-width:100% }.img-rounded{-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.img-polaroid{padding:4px;background-color:#fff;border:1px
+solid #ccc;border:1px
+solid rgba(0,0,0,0.2);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.1);-moz-box-shadow:0 1px 3px rgba(0,0,0,0.1);box-shadow:0 1px 3px rgba(0,0,0,0.1)}.img-circle{-webkit-border-radius:500px;-moz-border-radius:500px;border-radius:500px}table{background-color:transparent;border-collapse:collapse;border-spacing:0}th,td{line-height:20px;padding:8px
+10px;text-align:left;vertical-align:top}td{border-top:1px solid #ddd}th{background:#444;color:#eee;font-weight:bold}th
+a{color:#eee}th a:hover,
+th a:focus,
+th a:active{color:#fff}
+
+
+
+.breadcrumb{padding:10px
+0;margin:0;background-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;*zoom:1}.breadcrumb:before,.breadcrumb:after{display:table;content:"";line-height:0}.breadcrumb:after{clear:both}.breadcrumb
+li{text-shadow:none;display:block;float:left;white-space:nowrap;line-height:14px;max-width:200px;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;word-wrap:normal !important}.breadcrumb
+a{color:#07b}.breadcrumb
+.divider{padding:0
+5px;color:#666}.breadcrumb .divider
+img{vertical-align:middle}.breadcrumb
+.active{color:#999}
+
+
+
+
+
+
+
+
+
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/bootstrap-responsive.css
+================================================================================*/
+@media (min-width: 1200px){ .span9{width:727px}.span3{width:229px} .row-fluid{width:100%;*zoom:1}.row-fluid:before,.row-fluid:after{display:table;content:"";line-height:0}.row-fluid:after{clear:both}.row-fluid [class*="span"]{display:block;width:100%;min-height:30px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;float:left;margin-left:2.0491803278689%;*margin-left:1.9979508196721%}.row-fluid [class*="span"]:first-child{margin-left:0}.row-fluid .controls-row [class*="span"]+[class*="span"]{margin-left:2.0491803278689%}
+
+.row-fluid
+.span9{width:74.487704918033%;*width:74.436475409836%}.row-fluid
+.span3{width:23.463114754098%;*width:23.411885245902%}
+
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/template-responsive.css
+================================================================================*/
+
+/*===============================
+/plugins/system/t3/base/css/off-canvas.css
+================================================================================*/
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/home.css
+================================================================================*/
+
+
+/*===============================
+/templates/t3_blank/css/themes/vri2/home-responsive.css
+================================================================================*/
+@media (max-width: 767px){.home .t3-sl-1,
+.home .t3-sl-5{margin-left:-20px;margin-right:-20px}.home .t3-sl-1 .jumbotron,
+.home .t3-sl-5
+.jumbotron{padding-top:30px;padding-bottom:10px}.home .t3-sl-1 .jumbotron .btn-large,
+.home .t3-sl-5 .jumbotron .btn-large{font-size:16px;padding:12px
+16px}.home .t3-sl-2{text-align:center}.home .t3-sl-2
+p{font-size:14px;line-height:20px}.home .t3-sl-3 p
+img{margin-bottom:0;margin-top:20px}.home .t3-sl-3 p,
+.home .t3-sl-4
+p{font-size:14px;line-height:20px}.home .t3-sl-3 .jumbotron,
+.home .t3-sl-4
+.jumbotron{padding-bottom:0}.home .t3-sl-3 .jumbotron h1,
+.home .t3-sl-4 .jumbotron
+h1{margin-bottom:10px;margin-top:10px}.home .t3-sl-3 .jumbotron p,
+.home .t3-sl-4 .jumbotron
+p{font-size:14px}}
+
+
+/*===============================
+/plugins/system/t3/base/css/megamenu.css
+================================================================================*/
